@@ -4,4 +4,5 @@
 # Detail
      just click on APA_advanced_data_analysis.ipynb file, and see the whole data analysis process in Github.com
 # My thought
-     I think proposing great question is important skill that a Data Scientist should poccess. So I write down my explnation and idea/questions which guide my analysis from time to time.
+     I think proposing great question is important skill that a Data Scientist should poccess. 
+     So I write down my explnation and idea/questions which guide my analysis from time to time.
