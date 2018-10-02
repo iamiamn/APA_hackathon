@@ -1,5 +1,5 @@
 # Info
-     This is my data anlysis based on the basic version of 2018 APA hackathon DS problem.
+     This is my data anlysis related to the basic version of 2018 APA hackathon DS problem.
      The initial basic analysis and data are provided by Walmart Technology and I modify and add more analysis on it.
 # Detail
      just click on APA_advanced_data_analysis.ipynb file, and see the whole data analysis process in Github.com
